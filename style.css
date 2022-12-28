@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(0, 255, 98);
+}
+#score{
+    font-size: 35px;
+   float: left;
+}
+#timer{
+    font-size: 35px;
+    float :right;
+}
+
+#sketchdrawn
+{
+color :red ;
+}
